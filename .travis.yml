@@ -1,4 +1,0 @@
-
-language: java
-before_install: cd recipeswebapp
-script: mvn clean install
